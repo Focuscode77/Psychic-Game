@@ -1,4 +1,21 @@
 body{
-  background-color: #A81728;
+  height: 100%;
+  
   color: #ffff;
 }
+
+.bg { 
+  /* The image used */
+  background-image: url("../Images/mathew-macquarrie-u6OnpbMuZAs-unsplash.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
